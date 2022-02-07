@@ -9,7 +9,7 @@
 
 -💼 Working as Systems technical support.
 
--🌱 I’m currently learning Flutter.
+-🌱 I’m currently learning Flutter | Web Devlopmnent | Ui Ux.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisalbertmschz)![Luis Albert github stats](https://github-readme-stats.vercel.app/api?username=luisalbertmschz&hide=contribs,prs&show_icons=true)
 
